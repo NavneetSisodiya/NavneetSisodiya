@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me: 
 🚀 **Full-Stack Developer | MERN Stack | Java Enthusiast**  
 
 💡 Passionate about **building scalable & responsive web applications**  
@@ -25,18 +25,17 @@
 
 ---
 
-## 📈 **GitHub Stats**  
-📊 **My GitHub Activity:**  
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavneetSisodiya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavneetSisodiya&layout=compact&theme=tokyonight)  
 
----
 
-## 🌍 **Let's Connect**  
-📫 **Reach out to me:**  
+## 🌍 **Let's Connect!**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/navneet-sisodiya)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NavneetSisodiya)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-five-omega-93.vercel.app/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)  
 
 ---
 
