@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Navneet Sisodiya!  
+# 💫 About Me:  
 🚀 **Full-Stack Developer | MERN Stack | Java Enthusiast**  
 
 💡 Passionate about **building scalable & responsive web applications**  
